@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirebaseTutorial</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="full_name">Name</string>
+    <string name="dob">DOB</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile</string>
+    <string name="game">Game</string>
+    <string name="address">Address</string>
+    <string name="awards">Awards</string>
+    <string name="add_player">Add Player</string>
+    <string name="saved_message">Saved successfully!</string>
+    <string name="fill_empty_field">Please fill the empty fields</string>
+
+</resources>
